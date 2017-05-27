@@ -803,27 +803,6 @@ blockquote {
   color: #ffffff;
   font-size: 16px;
 }
-#header2-8 {
-  
-}
-#header2-8 .mbr-section-title,
-#header2-8 .mbr-section-subtitle,
-#header2-8 .btn {
-  color: #fff;
-}
-#header2-8 .mbr-section-title {
-  font-weight: 700;
-  font-family: 'Open Sans', sans-serif;
-  color: #ffa700;
-}
-#header2-8 h1 #technique-one {
-  width: 250px;
-  height: 25px;
-  background-image: url(fassets/images/hawkxlogo2-48ca0d14-c0b2-4c17-8c1f-6db96a7415ac-308x128.png);
-}
-#header2-8 h1 #technique-one span {
-  display: none;
-}
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -898,12 +877,6 @@ blockquote {
   color: #ffffff;
   font-size: 16px;
 }
-#custom-html-9 {
-  /* Type valid CSS here */
-}
-#custom-html-9 .my-image {
-  width: 100%;
-}
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -977,4 +950,7 @@ blockquote {
 #footer2-6 P {
   color: #ffffff;
   font-size: 16px;
+}
+#video2-7 .mbr-figure {
+  padding: 0;
 }
