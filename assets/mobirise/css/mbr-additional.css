@@ -737,11 +737,11 @@ blockquote {
   color: #ffa700;
 }
 #menu-0 .link {
-  font-size: 0.875rem;
+  font-size: 0.85rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 0.921rem;
 }
 #menu-0 .link:hover,
 #menu-0 .link:focus {
@@ -802,6 +802,27 @@ blockquote {
 #footer2-2 P {
   color: #ffffff;
   font-size: 16px;
+}
+#header2-c {
+  
+}
+#header2-c .mbr-section-title,
+#header2-c .mbr-section-subtitle,
+#header2-c .btn {
+  color: #fff;
+}
+#header2-c .mbr-section-title {
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffa700;
+}
+#header2-c .h1logo {
+  padding: 70px 0 0 0;
+  overflow: hidden;
+  background-image: url("logo.png");
+  background-repeat: no-repeat;
+  height: 0px !important;
+  height: 70px;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
