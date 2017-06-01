@@ -737,11 +737,11 @@ blockquote {
   color: #ffa700;
 }
 #menu-0 .link {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.812rem;
 }
 #menu-0 .link:hover,
 #menu-0 .link:focus {
@@ -821,11 +821,11 @@ blockquote {
   color: #ffa700;
 }
 #menu-3 .link {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.812rem;
 }
 #menu-3 .link:hover,
 #menu-3 .link:focus {
@@ -895,11 +895,11 @@ blockquote {
   color: #ffa700;
 }
 #menu-5 .link {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 #menu-5 .dropdown-item,
 #menu-5 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.812rem;
 }
 #menu-5 .link:hover,
 #menu-5 .link:focus {
@@ -953,4 +953,78 @@ blockquote {
 }
 #video2-7 .mbr-figure {
   padding: 0;
+}
+#menu-d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-d .navbar-caption {
+  color: #ffffff;
+}
+#menu-d .navbar-toggler {
+  color: #ffa700;
+}
+#menu-d .close-icon::before,
+#menu-d .close-icon::after {
+  background-color: #ffa700;
+}
+#menu-d .link,
+#menu-d .dropdown-item {
+  color: #ffa700;
+}
+#menu-d .link {
+  font-size: 0.75rem;
+}
+#menu-d .dropdown-item,
+#menu-d .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-d .link:hover,
+#menu-d .link:focus {
+  color: #ff0000;
+}
+#menu-d .dropdown-item:hover::before,
+#menu-d .dropdown-item:focus::before {
+  background: #ff0000;
+}
+#menu-d .dropdown-item:hover,
+#menu-d .dropdown-item:focus {
+  color: #ffa700;
+}
+#menu-d .link[aria-expanded="true"],
+#menu-d .dropdown-menu {
+  background: #000000;
+}
+#menu-d .nav-dropdown-sm .link:focus,
+#menu-d .nav-dropdown-sm .link:hover,
+#menu-d .nav-dropdown-sm .dropdown-item:focus,
+#menu-d .nav-dropdown-sm .dropdown-item:hover {
+  background: #111111!important;
+}
+#menu-d .navbar,
+#menu-d .nav-dropdown-sm,
+#menu-d .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-d .nav-dropdown-sm .dropdown-menu {
+  background: #191919;
+}
+#menu-d .bg-color.transparent .link {
+  color: #ffa700;
+  transition: none;
+}
+#menu-d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-d .bg-color.transparent.opened .link:hover,
+#menu-d .bg-color.transparent.opened .link:focus {
+  color: #ff0000;
+}
+#menu-d .link[aria-expanded="true"],
+#menu-d .dropdown-item[aria-expanded="true"] {
+  color: #ff0000!important;
+}
+#footer2-e .mbr-section-text {
+  color: #fff;
+}
+#footer2-e P {
+  color: #ffffff;
+  font-size: 16px;
 }
